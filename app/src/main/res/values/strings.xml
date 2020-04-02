@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">TournMaster</string>
+    <string name="login">Login!</string>
+    <string name="username">username</string>
+    <string name="iniciar_sessi">Iniciat Sessió</string>
+    <string name="Error_Login">Error amb l usuari o contrasenya</string>
+    <string name="Tittle">Has Iniciat sessio!</string>
+    <string name="Error_Conex">Hagut un error de conexió</string>
+    <string name="selecciona_tu_fecha_de_nacimiento">Selecciona tu fecha de nacimiento:</string>
+    <string name="crear_cuenta">Crear cuenta</string>
+    <string name="nombre_de_usuario">Nombre de usuario:</string>
+    <string name="contrase_a">Contraseña:</string>
+    <string name="escribe_aqu_tu_usuario">Escribe aquí tu usuario</string>
+    <string name="repite_aqu_tu_contrase_a">Repite aquí tu contraseña</string>
+    <string name="repite_la_contrase_a">Repite la contraseña:</string>
+    <string name="correo_electr_nico">Correo electrónico:</string>
+    <string name="escribe_aqu_tu_contrase_a">Escribe aquí tu contraseña</string>
+    <string name="hombre">Hombre</string>
+    <string name="selecciona_tu_sexo">Selecciona tu sexo:</string>
+    <string name="rol">tu rol:</string>
+    <string name="tusexo">tu sexo:</string>
+    <string name="mujer">Mujer</string>
+    <string name="jugador">Jugador</string>
+    <string name="selecciona_tu_rol">Selecciona tu rol:</string>
+    <string name="volver">Volver</string>
+    <string name="telefono">Telefono</string>
+    <string name="error_conex">Error al registrar</string>
+    <string name="contra">La contraseña no coincide</string>
+</resources>
